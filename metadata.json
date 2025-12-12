@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cosmic Quest: Astrology Explorer",
+  "description": "A fun-learning adventure game combining astronomy and Indian astrology for kids. Explore planets, zodiacs, and stars while restoring the Cosmic Clock!",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
